@@ -1,2 +1,2 @@
 # ai-foundation
-The project is ai-faundation-codes
+This project is for ai-faundation-codes
